@@ -3,7 +3,7 @@
 
 #define NUM 65
 
-int main()
+int main()   /*unchi*/
 {
   int  i;
   double a1[NUM];
